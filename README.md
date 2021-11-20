@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sangam Sharma
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Python.
 - 📫 You can reach me via facebook (sangamsharma18041)
 
 <!---
